@@ -1,6 +1,6 @@
-# Angular 2 Template
+# Tour of Heroes
 
-A template for Angular 2 applications.
+//TODO
 
 ## Installation
 
@@ -12,7 +12,7 @@ A template for Angular 2 applications.
 
 ## Credits
 
-[Angular 2 Quickstart tutorial](https://angular.io/docs/ts/latest/quickstart.html)
+[Angular 2 - Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)
 
 ## License
 
