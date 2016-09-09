@@ -1,6 +1,6 @@
 # Tour of Heroes
 
-//TODO
+Tour of Heroes redesign. Inspired by the [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) tutorial written by the Angular 2 team. 
 
 ## Installation
 
@@ -12,7 +12,7 @@
 
 ## Credits
 
-[Angular 2 - Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)
+[Angular 2 - Tour of Heroes tutorial](https://angular.io/docs/ts/latest/tutorial/)
 
 ## License
 
